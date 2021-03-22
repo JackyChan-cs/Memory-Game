@@ -44,16 +44,16 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+One of my biggest challenge when I was creating this game was trying to debugging it. I had multiple instances where the game broke on me and I had no idea what was broken. What I ended up doing was reading through the prework description and tried to understand how everything connects together. Reading the prework helped alot with understanding the code and where I went wrong. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I am curious as to how to make more bigger scale websites, one where it takes a large collaborative effort in order to complete. I am also curious as to how people secure their websites poperly so that it prevents information from leaking out to unwanted parties. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had a few more hours to work on this project I would spend it figuring out how to add a timer, strikeout features, and randomizing the patterns. I would've spent time familiarizing myself more with java script so that way I can complete more of the optional work.  
 
 
 
