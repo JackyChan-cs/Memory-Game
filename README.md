@@ -6,7 +6,7 @@ Submitted by: Jacky Chan
 
 Time spent: 1.5 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: Game: (https://abaft-goldenrod-roadrunner.glitch.me) Code : https://glitch.com/edit/#!/abaft-goldenrod-roadrunner
 
 ## Required Functionality
 
